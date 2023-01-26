@@ -4,6 +4,10 @@ Develop an elegant React.js Music Application.
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
+# Application
+
+![alt text](https://user-images.githubusercontent.com/72398005/214945004-913f1a1f-cd88-4cbe-b6a9-7360b2f43dab.png)
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
